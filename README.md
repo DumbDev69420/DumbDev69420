@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there Person 😎👋
 
-<!--
-**DumbDev69420/DumbDev69420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me🕵️
+Im an 18 yr old Developer from Germany who emphasises in Creating and Designing Video Games \
+Currently im in the Process of becoming a Game and Multimedia Designer 
 
-Here are some ideas to get you started:
+## My Programming Languages 🧑‍🎓
+### C++ :
+I have about 8 Years of Experience in C++ and have been coding in it since.\
+Personally i love C++ since i have been coding in it since i was an little Infant ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my Projects 
+<ul style="outline-style: solid;">
+  <li>
+    
+  </li>
+</ul>
+### C#
